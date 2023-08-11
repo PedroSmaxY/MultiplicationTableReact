@@ -15,7 +15,7 @@ result:
 ## Installation and usage
 To install this project, you will need Node.js and npm. 
 
-Clone the repository in a folder using this command: `git clone https://github.com/PedroSmaxY/To-do_React.git`
+Clone the repository in a folder using this command: `git clone https://github.com/PedroSmaxY/multiplicationTableReact.git`
 
 After installing them, run the following command: `npm install`
 
