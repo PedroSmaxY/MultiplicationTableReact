@@ -12,4 +12,13 @@ result:
 ![image](https://github.com/PedroSmaxY/multiplicationTableReact/assets/127573080/8bad223c-d667-4564-92ed-aac241648cb3)
 
 
+## Installation and usage
+To install this project, you will need Node.js and npm. 
 
+Clone the repository in a folder using this command: `git clone https://github.com/PedroSmaxY/To-do_React.git`
+
+After installing them, run the following command: `npm install`
+
+This will install the project's dependencies.
+ 
+To use this project, simply run the following command: `npm run dev`
