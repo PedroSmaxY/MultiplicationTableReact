@@ -1,0 +1,110 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(106, 141, 255);
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: white;
+}
+
+.spacing {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  position: relative;
+  background: white;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 8px;
+  padding: 10px;
+  min-height: 350px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+}
+
+section {
+  color: black;
+  position: relative;
+  text-align: center;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.562);
+  color: white;
+  filter: brightness(80%);
+  transition: 350ms;
+  margin: 15px;
+}
+
+button:hover {
+  filter: brightness(100%);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.349);
+}
+
+.generate {
+  position: relative;
+  margin-top: 10px;
+}
+
+li {
+  position: relative;
+}
+
+::placeholder {
+  text-align: center;
+  position: relative;
+}
+
+button:active {
+  box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+
+input {
+  position: relative;
+  max-width: 125px;
+  text-align: center;
+  margin: 8px;
+}
+
+p {
+  font-weight: bold;
+}
+
+footer {
+  min-width: 100%;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.384);
+  text-align: center;
+  color: white;
+  padding: 8px 0;
+}
+
+@media (max-width: 768px) {
+  footer {
+    font-size: 14px;
+  }
+}
+
+section {
+  margin: 15px;
+}
