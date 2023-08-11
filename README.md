@@ -1,10 +1,15 @@
-# React + Vite
+# MultiplicationTableReact
 
-https://pedrosmaxy.github.io/multiplicationTableReact/
+You can check this web application clicking <a href="https://pedrosmaxy.github.io/multiplicationTableReact/">HERE.</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Initial menu:
 
-Currently, two official plugins are available:
+ ![image](https://github.com/PedroSmaxY/multiplicationTableReact/assets/127573080/ba9e9271-12cb-4d82-8699-9614e7750b55)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+result:
+
+![image](https://github.com/PedroSmaxY/multiplicationTableReact/assets/127573080/8bad223c-d667-4564-92ed-aac241648cb3)
+
+
+
